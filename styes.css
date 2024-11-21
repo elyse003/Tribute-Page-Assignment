@@ -66,3 +66,22 @@ header p {
 #tribute-info p {
     text-align: justify;
 }
+/* Footer */
+footer {
+    margin-top: 20px;
+}
+
+#tribute-link {
+    color: #ffffff;
+    background: #2a4d69;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#tribute-link:hover {
+    background: #406080;
+}
+
