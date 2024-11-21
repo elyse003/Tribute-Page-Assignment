@@ -17,3 +17,20 @@ main {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+/* Header */
+header {
+    background: #c1e1c1;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+header h1 {
+    margin: 0;
+    color: #2a4d69;
+}
+
+header p {
+    margin: 0;
+    font-style: italic;
+    color: #333;
+}
